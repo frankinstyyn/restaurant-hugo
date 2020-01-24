@@ -1,11 +1,10 @@
 ######################## default configuration ####################
-baseURL = "https://signofthefishtest2.netlify.com"
-disableLanguages = []
-disqusShortname = ""
-paginate = "4"
-summaryLength = "30"
-theme = "airspace-hugo"
-title = "Sign of The Fish"
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Restaurant Theme By Themefisher"
+theme="restaurant-hugo"
+summaryLength = "7"
+paginate = 4
 
 ############################# Plugins ##############################
 [params.plugins]
